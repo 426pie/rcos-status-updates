@@ -1,22 +1,16 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+This previous week, we continued researching, on what we want to work on. 
+However, we planned ahead and expected it to take a while to figure out 
+where we want to start.
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+We plan on continue to research on different design choices for operating 
+systems, and hopefully complete some hands-on guides to get started.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
-
-## Notes
-
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+Currently, there is a big knowledge gap between what we know now, and what 
+we need to know to complete this project. However, like I mentioned before, 
+we anticipated this and schedueled our timeline accordingly.
